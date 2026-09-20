@@ -1,0 +1,14 @@
+google-api-python-client
+python-dotenv
+ipykernel
+pandas
+numpy
+langdetect 
+deep-translator
+tqdm
+emoji
+joblib
+scikit-learn
+matplotlib
+nltk
+streamlit
