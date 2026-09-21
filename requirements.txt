@@ -3,8 +3,6 @@ python-dotenv
 ipykernel
 pandas
 numpy
-langdetect 
-deep-translator
 tqdm
 emoji
 joblib
