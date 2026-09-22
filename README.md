@@ -2,7 +2,7 @@
 Finding the toxicity of a YouTube channel's comment section and which videos drive it. The score is build using a toxicity classifier trained on the Jigsaw dataset along with a separate classifier for Hinglish. ALso, clustering to spot patterns across videos.
 
 ## Links
-[Live Web App]
+[Live Web App](https://yt-toxicity-analyzer-xzygnqt8fozfuwanvo6h8r.streamlit.app/)
 
 ## Objective
 A YouTube channel's comment section can be place for both encouraging and criticizing comments, but sometimes the limits were cross making the comment section toxic. The project aims to find a score of toxicity per video and whether certain topics or formats attract more toxic reactions than others.
